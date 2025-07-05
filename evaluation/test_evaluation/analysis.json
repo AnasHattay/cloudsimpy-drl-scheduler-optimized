@@ -1,0 +1,162 @@
+{
+  "summary": {
+    "total_scenarios": 2,
+    "total_algorithms": 6,
+    "heuristic_algorithms": 6,
+    "drl_algorithms": 0,
+    "overall_best_makespan": {
+      "algorithm": "Min-Min",
+      "value": 0.6154146330939363
+    },
+    "overall_best_energy": {
+      "algorithm": "Min-Min",
+      "value": 0.3172928514012304
+    },
+    "overall_best_efficiency": {
+      "algorithm": "Min-Min",
+      "value": 31.703129028146634
+    }
+  },
+  "scenario_analysis": {
+    "linear_abundant": {
+      "best_makespan": {
+        "algorithm": "Min-Min",
+        "value": 0.6154146330939363,
+        "type": "heuristic"
+      },
+      "best_energy": {
+        "algorithm": "Min-Min",
+        "value": 0.3172928514012304,
+        "type": "heuristic"
+      },
+      "best_efficiency": {
+        "algorithm": "Min-Min",
+        "value": 31.703129028146634,
+        "type": "heuristic"
+      },
+      "algorithm_count": 6,
+      "avg_success_rate": 0.5555555555555556
+    },
+    "parallel_bottleneck": {
+      "best_makespan": {
+        "algorithm": "Min-Min",
+        "value": 33.54967113531026,
+        "type": "heuristic"
+      },
+      "best_energy": {
+        "algorithm": "Min-Min",
+        "value": 4.569949912418382,
+        "type": "heuristic"
+      },
+      "best_efficiency": {
+        "algorithm": "Min-Min",
+        "value": 4.9064832435403645,
+        "type": "heuristic"
+      },
+      "algorithm_count": 6,
+      "avg_success_rate": 0.55
+    }
+  },
+  "algorithm_analysis": {
+    "Random": {
+      "type": "heuristic",
+      "scenarios_evaluated": 2,
+      "avg_makespan": 39.82411525515306,
+      "avg_energy": 3.702029342783328,
+      "avg_efficiency": 11.79396833688766,
+      "avg_success_rate": 0.3333333333333333,
+      "avg_execution_time": 0.0005455613136291504,
+      "best_scenario": "linear_abundant",
+      "worst_scenario": "parallel_bottleneck"
+    },
+    "Min-Min": {
+      "type": "heuristic",
+      "scenarios_evaluated": 2,
+      "avg_makespan": 17.0825428842021,
+      "avg_energy": 2.4436213819098063,
+      "avg_efficiency": 18.3048061358435,
+      "avg_success_rate": 0.3333333333333333,
+      "avg_execution_time": 0.0002880692481994629,
+      "best_scenario": "linear_abundant",
+      "worst_scenario": "parallel_bottleneck"
+    },
+    "Max-Min": {
+      "type": "heuristic",
+      "scenarios_evaluated": 2,
+      "avg_makespan": 35.08229427742463,
+      "avg_energy": 5.014847522139574,
+      "avg_efficiency": 10.088485498467389,
+      "avg_success_rate": 0.3333333333333333,
+      "avg_execution_time": 0.000382840633392334,
+      "best_scenario": "linear_abundant",
+      "worst_scenario": "parallel_bottleneck"
+    },
+    "HEFT": {
+      "type": "heuristic",
+      "scenarios_evaluated": 2,
+      "avg_makespan": 71.33115251672137,
+      "avg_energy": 7.45082135176013,
+      "avg_efficiency": 13.413142499881538,
+      "avg_success_rate": 0.9875,
+      "avg_execution_time": 0.00026279687881469727,
+      "best_scenario": "linear_abundant",
+      "worst_scenario": "parallel_bottleneck"
+    },
+    "Power-Aware Min-Min": {
+      "type": "heuristic",
+      "scenarios_evaluated": 2,
+      "avg_makespan": 42.49452475442749,
+      "avg_energy": 3.4881558737482403,
+      "avg_efficiency": 13.343915229193048,
+      "avg_success_rate": 0.3333333333333333,
+      "avg_execution_time": 0.0017147362232208252,
+      "best_scenario": "linear_abundant",
+      "worst_scenario": "parallel_bottleneck"
+    },
+    "Energy-Efficient HEFT": {
+      "type": "heuristic",
+      "scenarios_evaluated": 2,
+      "avg_makespan": 82.6517222674273,
+      "avg_energy": 8.90091886951432,
+      "avg_efficiency": 15.603698105329286,
+      "avg_success_rate": 0.9958333333333333,
+      "avg_execution_time": 0.00037410855293273926,
+      "best_scenario": "linear_abundant",
+      "worst_scenario": "parallel_bottleneck"
+    }
+  },
+  "performance_rankings": {
+    "makespan_ranking": {
+      "Min-Min": 17.0825428842021,
+      "Max-Min": 35.08229427742463,
+      "Random": 39.82411525515306,
+      "Power-Aware Min-Min": 42.49452475442749,
+      "HEFT": 71.33115251672137,
+      "Energy-Efficient HEFT": 82.6517222674273
+    },
+    "energy_ranking": {
+      "Min-Min": 2.4436213819098063,
+      "Power-Aware Min-Min": 3.4881558737482403,
+      "Random": 3.702029342783328,
+      "Max-Min": 5.014847522139574,
+      "HEFT": 7.45082135176013,
+      "Energy-Efficient HEFT": 8.90091886951432
+    },
+    "efficiency_ranking": {
+      "Min-Min": 18.3048061358435,
+      "Energy-Efficient HEFT": 15.603698105329286,
+      "HEFT": 13.413142499881538,
+      "Power-Aware Min-Min": 13.343915229193048,
+      "Random": 11.79396833688766,
+      "Max-Min": 10.088485498467389
+    },
+    "drl_vs_heuristic": {
+      "drl_avg_makespan": NaN,
+      "heuristic_avg_makespan": 48.077725325892665,
+      "drl_avg_energy": NaN,
+      "heuristic_avg_energy": 5.166732390309233,
+      "drl_avg_efficiency": NaN,
+      "heuristic_avg_efficiency": 13.75800263426707
+    }
+  }
+}

@@ -1,0 +1,1907 @@
+[
+  {
+    "scenario_name": "linear_abundant_run_1",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 1.8184557438794728,
+    "total_energy": 0.5982042342286636,
+    "energy_efficiency": 16.716698792502193,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0005519390106201172,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_2",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 1.8021680216802167,
+    "total_energy": 0.5926243900763796,
+    "energy_efficiency": 16.87409456554963,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00022721290588378906,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_3",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 4.150477707006369,
+    "total_energy": 0.7707858784515496,
+    "energy_efficiency": 12.973771678444917,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00022912025451660156,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_4",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 1.4834068229287536,
+    "total_energy": 0.41470233321766686,
+    "energy_efficiency": 24.113681546979024,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00023412704467773438,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_5",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 1.4502529510961213,
+    "total_energy": 0.48465871100886526,
+    "energy_efficiency": 20.63307596222506,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0002319812774658203,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_1",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 0.8212658227848101,
+    "total_energy": 0.5563888465074871,
+    "energy_efficiency": 17.973041808388288,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00013375282287597656,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_2",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 0.6392849309059004,
+    "total_energy": 0.39166478787479897,
+    "energy_efficiency": 25.532037368640445,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00013208389282226562,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_3",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 0.5460969776038269,
+    "total_energy": 0.38392981784491914,
+    "energy_efficiency": 26.046427068707914,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00013685226440429688,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_4",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 0.5770979235778351,
+    "total_energy": 0.30172955125845585,
+    "energy_efficiency": 33.14226252712711,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00013065338134765625,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_5",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 0.7101115421920465,
+    "total_energy": 0.3069462915565101,
+    "energy_efficiency": 32.5789894684522,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00012183189392089844,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_1",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 1.1963636363636363,
+    "total_energy": 0.7616035413422211,
+    "energy_efficiency": 13.130191047137702,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00013685226440429688,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_2",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 0.9083853294780095,
+    "total_energy": 0.4587647908158097,
+    "energy_efficiency": 21.79766233197028,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00015091896057128906,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_3",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 0.9856275303643725,
+    "total_energy": 0.529973281789981,
+    "energy_efficiency": 18.868875740726157,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00013589859008789062,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_4",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 0.8035604665438919,
+    "total_energy": 0.38350215530758874,
+    "energy_efficiency": 26.07547274924564,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0001308917999267578,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_5",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 1.1788472964943553,
+    "total_energy": 0.4986015983944717,
+    "energy_efficiency": 20.056092945150244,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00013017654418945312,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_1",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 3.4660982299013283,
+    "total_energy": 1.1204226727417494,
+    "energy_efficiency": 26.775609535451462,
+    "success_rate": 1.0,
+    "execution_time": 0.00031495094299316406,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_2",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 3.046006944444445,
+    "total_energy": 1.018402105966073,
+    "energy_efficiency": 29.457912374937113,
+    "success_rate": 1.0,
+    "execution_time": 0.0003139972686767578,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_3",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 3.367070928037494,
+    "total_energy": 1.0719878488408134,
+    "energy_efficiency": 27.9853918423052,
+    "success_rate": 1.0,
+    "execution_time": 0.00030994415283203125,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_4",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 3.5496648385131016,
+    "total_energy": 1.4142051781959006,
+    "energy_efficiency": 21.213329198999933,
+    "success_rate": 1.0,
+    "execution_time": 0.0003147125244140625,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_5",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 3.8502677399421414,
+    "total_energy": 1.7733390024678564,
+    "energy_efficiency": 16.91723915069295,
+    "success_rate": 1.0,
+    "execution_time": 0.00031495094299316406,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_1",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 2.521946924915105,
+    "total_energy": 0.46254122377986967,
+    "energy_efficiency": 21.619694604256832,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0011870861053466797,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_2",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 1.419283688688163,
+    "total_energy": 0.5492031704638509,
+    "energy_efficiency": 18.208197872481527,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0011010169982910156,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_3",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 1.2118912080961417,
+    "total_energy": 0.4126534445196891,
+    "energy_efficiency": 24.233409735957906,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00110626220703125,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_4",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 1.3295573981081397,
+    "total_energy": 0.536145791020636,
+    "energy_efficiency": 18.651643205038432,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0011210441589355469,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_5",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 1.6006665972294551,
+    "total_energy": 0.47678841360265434,
+    "energy_efficiency": 20.973664029373403,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.001092672348022461,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_1",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 2.1142857142857143,
+    "total_energy": 0.6064141992841269,
+    "energy_efficiency": 16.49037903763635,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.001110076904296875,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_2",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 1.2311557788944725,
+    "total_energy": 0.5733114570955189,
+    "energy_efficiency": 17.442526006128478,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0010972023010253906,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_3",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 1.2188240604897866,
+    "total_energy": 0.3897691767260633,
+    "energy_efficiency": 25.656210385841202,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0011470317840576172,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_4",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 1.5007057874571486,
+    "total_energy": 0.5394093854156874,
+    "energy_efficiency": 18.53879496793267,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.001135110855102539,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_5",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 2.03767539498398,
+    "total_energy": 0.4024674417335724,
+    "energy_efficiency": 24.84673035146991,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0010728836059570312,
+    "additional_metrics": {
+      "scheduled_tasks": 10,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_1",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 9.531627340201618,
+    "total_energy": 0.9919636478772993,
+    "energy_efficiency": 30.243043748827823,
+    "success_rate": 1.0,
+    "execution_time": 0.00044918060302734375,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_2",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 9.229351032448378,
+    "total_energy": 0.9164571835706663,
+    "energy_efficiency": 32.7347535027388,
+    "success_rate": 1.0,
+    "execution_time": 0.00045180320739746094,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_3",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 8.962012424890517,
+    "total_energy": 1.1082791380657977,
+    "energy_efficiency": 27.068992792156052,
+    "success_rate": 1.0,
+    "execution_time": 0.000457763671875,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_4",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 9.326395458845793,
+    "total_energy": 0.9041422264269947,
+    "energy_efficiency": 33.18062039703038,
+    "success_rate": 1.0,
+    "execution_time": 0.00047206878662109375,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_5",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 8.712958963282937,
+    "total_energy": 0.8893737204685528,
+    "energy_efficiency": 33.73160158610821,
+    "success_rate": 1.0,
+    "execution_time": 0.000453948974609375,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_1",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 8.71963095848283,
+    "total_energy": 0.8138322227917308,
+    "energy_efficiency": 36.86263477881159,
+    "success_rate": 1.0,
+    "execution_time": 0.00045013427734375,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_2",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 9.45076957899502,
+    "total_energy": 0.8820718273728687,
+    "energy_efficiency": 34.010835704106924,
+    "success_rate": 1.0,
+    "execution_time": 0.00045490264892578125,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_3",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 9.042786170536345,
+    "total_energy": 0.8928835690881346,
+    "energy_efficiency": 33.59900555750821,
+    "success_rate": 1.0,
+    "execution_time": 0.0004572868347167969,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_4",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 8.699887674869805,
+    "total_energy": 0.9014050285351214,
+    "energy_efficiency": 33.281376351708595,
+    "success_rate": 1.0,
+    "execution_time": 0.0004627704620361328,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_5",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 10.13276353276353,
+    "total_energy": 0.9400952833175057,
+    "energy_efficiency": 31.911658884334457,
+    "success_rate": 1.0,
+    "execution_time": 0.00044989585876464844,
+    "additional_metrics": {
+      "scheduled_tasks": 30,
+      "total_tasks": 30
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_1",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 13.050394656952033,
+    "total_energy": 0.9699629214474387,
+    "energy_efficiency": 6.185803464576181,
+    "success_rate": 0.1,
+    "execution_time": 0.0007317066192626953,
+    "additional_metrics": {
+      "scheduled_tasks": 6,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_2",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 45.820633059788975,
+    "total_energy": 4.664544259835955,
+    "energy_efficiency": 2.7869818091204457,
+    "success_rate": 0.21666666666666667,
+    "execution_time": 0.0007510185241699219,
+    "additional_metrics": {
+      "scheduled_tasks": 13,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_3",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 51.510194624652456,
+    "total_energy": 4.672622981757226,
+    "energy_efficiency": 4.2802511732882484,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0007848739624023438,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_4",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 85.9326923076923,
+    "total_energy": 7.020994994556959,
+    "energy_efficiency": 2.84859909678116,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0007889270782470703,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_5",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 59.46169253880821,
+    "total_energy": 4.068753318126733,
+    "energy_efficiency": 4.9155105842612405,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0008866786956787109,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_1",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 50.603531300160505,
+    "total_energy": 5.707054487639581,
+    "energy_efficiency": 3.5044347383253975,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0004119873046875,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_2",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 36.02524127691166,
+    "total_energy": 4.440927206215566,
+    "energy_efficiency": 3.8280294205693424,
+    "success_rate": 0.2833333333333333,
+    "execution_time": 0.00035834312438964844,
+    "additional_metrics": {
+      "scheduled_tasks": 17,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_3",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 30.785435630689204,
+    "total_energy": 3.9589730775845853,
+    "energy_efficiency": 5.0518151066089665,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0003998279571533203,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_4",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 28.987146529562985,
+    "total_energy": 3.5493289980242593,
+    "energy_efficiency": 5.634867889432915,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0004608631134033203,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_5",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 34.5583038869258,
+    "total_energy": 3.7247899489595615,
+    "energy_efficiency": 5.369430296488682,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.00044798851013183594,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_1",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 114.63164721141374,
+    "total_energy": 10.749438364445764,
+    "energy_efficiency": 1.8605623216698346,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0005631446838378906,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_2",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 79.4061181434599,
+    "total_energy": 9.72629471852573,
+    "energy_efficiency": 2.0562815109751797,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0005681514739990234,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_3",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 71.7960687960688,
+    "total_energy": 10.859173683643805,
+    "energy_efficiency": 1.7496727240506327,
+    "success_rate": 0.31666666666666665,
+    "execution_time": 0.0005161762237548828,
+    "additional_metrics": {
+      "scheduled_tasks": 19,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_4",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 34.893115942028984,
+    "total_energy": 4.142992176478133,
+    "energy_efficiency": 4.827428860124366,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0006110668182373047,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_5",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 49.971042471042466,
+    "total_energy": 6.499926747822788,
+    "energy_efficiency": 3.076957752900706,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0005838871002197266,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_1",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 146.37536873156338,
+    "total_energy": 19.40178534033212,
+    "energy_efficiency": 3.0409572606368216,
+    "success_rate": 0.9833333333333333,
+    "execution_time": 0.000202178955078125,
+    "additional_metrics": {
+      "scheduled_tasks": 59,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_2",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 147.9216789268715,
+    "total_energy": 15.07663881404573,
+    "energy_efficiency": 3.9796668700521414,
+    "success_rate": 1.0,
+    "execution_time": 0.00021696090698242188,
+    "additional_metrics": {
+      "scheduled_tasks": 60,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_3",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 99.00192307692309,
+    "total_energy": 18.288968914005093,
+    "energy_efficiency": 3.2806660824959883,
+    "success_rate": 1.0,
+    "execution_time": 0.0002028942108154297,
+    "additional_metrics": {
+      "scheduled_tasks": 60,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_4",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 91.71772727272727,
+    "total_energy": 10.940062632476112,
+    "energy_efficiency": 5.484429295851292,
+    "success_rate": 1.0,
+    "execution_time": 0.0002193450927734375,
+    "additional_metrics": {
+      "scheduled_tasks": 60,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_5",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 98.78500382555468,
+    "total_energy": 7.659848767544979,
+    "energy_efficiency": 3.7859755303360445,
+    "success_rate": 0.48333333333333334,
+    "execution_time": 0.00017881393432617188,
+    "additional_metrics": {
+      "scheduled_tasks": 29,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_1",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 124.3693754197448,
+    "total_energy": 7.565803671367808,
+    "energy_efficiency": 2.6434733002243282,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0024840831756591797,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_2",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 80.5098398169336,
+    "total_energy": 6.485514874141876,
+    "energy_efficiency": 3.083795255753889,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0019998550415039062,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_3",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 8.865696698377167,
+    "total_energy": 0.7224711620966238,
+    "energy_efficiency": 4.152414874655963,
+    "success_rate": 0.05,
+    "execution_time": 0.00015306472778320312,
+    "additional_metrics": {
+      "scheduled_tasks": 3,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_4",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 50.90664350846722,
+    "total_energy": 3.8038575288271343,
+    "energy_efficiency": 4.469147403962237,
+    "success_rate": 0.2833333333333333,
+    "execution_time": 0.0010039806365966797,
+    "additional_metrics": {
+      "scheduled_tasks": 17,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_5",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 63.144067796610166,
+    "total_energy": 4.490244821092278,
+    "energy_efficiency": 4.454100120789156,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0016257762908935547,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_1",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 70.66030347528145,
+    "total_energy": 4.7499426225050305,
+    "energy_efficiency": 4.210577177341223,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.001725912094116211,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_2",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 52.37508896797153,
+    "total_energy": 6.366429632705485,
+    "energy_efficiency": 3.1414782152395797,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0011348724365234375,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_3",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 128.17699115044246,
+    "total_energy": 8.794365781710916,
+    "energy_efficiency": 2.274183323326479,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0021610260009765625,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_4",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 111.45615982241955,
+    "total_energy": 7.678091009988901,
+    "energy_efficiency": 1.823369895171409,
+    "success_rate": 0.23333333333333334,
+    "execution_time": 0.0004076957702636719,
+    "additional_metrics": {
+      "scheduled_tasks": 14,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_5",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 86.04341670599341,
+    "total_energy": 5.912034941727452,
+    "energy_efficiency": 3.3829299381908173,
+    "success_rate": 0.3333333333333333,
+    "execution_time": 0.0019567012786865234,
+    "additional_metrics": {
+      "scheduled_tasks": 20,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_1",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 85.4661751951431,
+    "total_energy": 10.076783263812997,
+    "energy_efficiency": 5.95428108645222,
+    "success_rate": 1.0,
+    "execution_time": 0.0002989768981933594,
+    "additional_metrics": {
+      "scheduled_tasks": 60,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_2",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 186.03659506762133,
+    "total_energy": 23.357702614148593,
+    "energy_efficiency": 2.5687457791185278,
+    "success_rate": 1.0,
+    "execution_time": 0.0002720355987548828,
+    "additional_metrics": {
+      "scheduled_tasks": 60,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_3",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 261.6360294117647,
+    "total_energy": 37.85471983932461,
+    "energy_efficiency": 1.5850071075594176,
+    "success_rate": 1.0,
+    "execution_time": 0.0003070831298828125,
+    "additional_metrics": {
+      "scheduled_tasks": 60,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_4",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 147.17397660818716,
+    "total_energy": 16.597111848475574,
+    "energy_efficiency": 3.6150868023168097,
+    "success_rate": 1.0,
+    "execution_time": 0.00031375885009765625,
+    "additional_metrics": {
+      "scheduled_tasks": 60,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_5",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 224.28363636363633,
+    "total_energy": 23.664076746860665,
+    "energy_efficiency": 2.535488734330603,
+    "success_rate": 1.0,
+    "execution_time": 0.0002639293670654297,
+    "additional_metrics": {
+      "scheduled_tasks": 60,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_1",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 156.80359355638166,
+    "total_energy": 14.757567940549512,
+    "energy_efficiency": 4.0657105724810805,
+    "success_rate": 1.0,
+    "execution_time": 0.000293731689453125,
+    "additional_metrics": {
+      "scheduled_tasks": 60,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_2",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 318.5038363171356,
+    "total_energy": 26.26030827379885,
+    "energy_efficiency": 2.284817046868594,
+    "success_rate": 1.0,
+    "execution_time": 0.00026297569274902344,
+    "additional_metrics": {
+      "scheduled_tasks": 60,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_3",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 221.7123583378306,
+    "total_energy": 14.252414673009493,
+    "energy_efficiency": 4.0694858612160285,
+    "success_rate": 0.9666666666666667,
+    "execution_time": 0.000247955322265625,
+    "additional_metrics": {
+      "scheduled_tasks": 58,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_4",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 167.90623416117577,
+    "total_energy": 11.061964700736418,
+    "energy_efficiency": 4.8815921457790505,
+    "success_rate": 0.9,
+    "execution_time": 0.00023698806762695312,
+    "additional_metrics": {
+      "scheduled_tasks": 54,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_5",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 78.44721998388398,
+    "total_energy": 13.549265479505742,
+    "energy_efficiency": 4.428284329564168,
+    "success_rate": 1.0,
+    "execution_time": 0.0003268718719482422,
+    "additional_metrics": {
+      "scheduled_tasks": 60,
+      "total_tasks": 60
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_1",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 25.919266055045874,
+    "total_energy": 6.647259247607232,
+    "energy_efficiency": 2.858320894711501,
+    "success_rate": 0.36538461538461536,
+    "execution_time": 0.0005791187286376953,
+    "additional_metrics": {
+      "scheduled_tasks": 19,
+      "total_tasks": 52
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_2",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 20.173932584269664,
+    "total_energy": 6.609704582217634,
+    "energy_efficiency": 2.571975765109959,
+    "success_rate": 0.3617021276595745,
+    "execution_time": 0.0004551410675048828,
+    "additional_metrics": {
+      "scheduled_tasks": 17,
+      "total_tasks": 47
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_3",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 24.739573070607552,
+    "total_energy": 10.407680680967614,
+    "energy_efficiency": 1.7294919542368703,
+    "success_rate": 0.35294117647058826,
+    "execution_time": 0.0004961490631103516,
+    "additional_metrics": {
+      "scheduled_tasks": 18,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_4",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 55.25685557586837,
+    "total_energy": 9.957657383905264,
+    "energy_efficiency": 1.807654080275318,
+    "success_rate": 0.375,
+    "execution_time": 0.0004668235778808594,
+    "additional_metrics": {
+      "scheduled_tasks": 18,
+      "total_tasks": 48
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_5",
+    "algorithm_name": "Random",
+    "algorithm_type": "heuristic",
+    "makespan": 13.485198000768934,
+    "total_energy": 4.392479003001474,
+    "energy_efficiency": 4.325575600251452,
+    "success_rate": 0.37254901960784315,
+    "execution_time": 0.0005309581756591797,
+    "additional_metrics": {
+      "scheduled_tasks": 19,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_1",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 2.652418645558487,
+    "total_energy": 1.8556667378911913,
+    "energy_efficiency": 10.238907456837802,
+    "success_rate": 0.36538461538461536,
+    "execution_time": 0.0003509521484375,
+    "additional_metrics": {
+      "scheduled_tasks": 19,
+      "total_tasks": 52
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_2",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 3.704755043227666,
+    "total_energy": 1.0511352249316845,
+    "energy_efficiency": 16.172990493306763,
+    "success_rate": 0.3617021276595745,
+    "execution_time": 0.0002713203430175781,
+    "additional_metrics": {
+      "scheduled_tasks": 17,
+      "total_tasks": 47
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_3",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 3.9709665564130834,
+    "total_energy": 2.097205966669168,
+    "energy_efficiency": 8.582847982541278,
+    "success_rate": 0.35294117647058826,
+    "execution_time": 0.00036406517028808594,
+    "additional_metrics": {
+      "scheduled_tasks": 18,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_4",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 3.144192841490139,
+    "total_energy": 1.4041810828572643,
+    "energy_efficiency": 12.81885949023977,
+    "success_rate": 0.375,
+    "execution_time": 0.0003170967102050781,
+    "additional_metrics": {
+      "scheduled_tasks": 18,
+      "total_tasks": 48
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_5",
+    "algorithm_name": "Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 2.636289555887546,
+    "total_energy": 1.6514635536808564,
+    "energy_efficiency": 11.504946601850186,
+    "success_rate": 0.37254901960784315,
+    "execution_time": 0.00038313865661621094,
+    "additional_metrics": {
+      "scheduled_tasks": 19,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_1",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 8.922814982973893,
+    "total_energy": 6.2056258388749335,
+    "energy_efficiency": 3.061737928344816,
+    "success_rate": 0.36538461538461536,
+    "execution_time": 0.00037288665771484375,
+    "additional_metrics": {
+      "scheduled_tasks": 19,
+      "total_tasks": 52
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_2",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 7.7072538860103625,
+    "total_energy": 2.3586227868361025,
+    "energy_efficiency": 7.207595930506588,
+    "success_rate": 0.3617021276595745,
+    "execution_time": 0.00037407875061035156,
+    "additional_metrics": {
+      "scheduled_tasks": 17,
+      "total_tasks": 47
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_3",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 8.09988551803091,
+    "total_energy": 5.0724502527208,
+    "energy_efficiency": 3.5485808836360735,
+    "success_rate": 0.35294117647058826,
+    "execution_time": 0.0004458427429199219,
+    "additional_metrics": {
+      "scheduled_tasks": 18,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_4",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 5.5849965588437716,
+    "total_energy": 3.663753040486296,
+    "energy_efficiency": 4.912994899244309,
+    "success_rate": 0.375,
+    "execution_time": 0.00035309791564941406,
+    "additional_metrics": {
+      "scheduled_tasks": 18,
+      "total_tasks": 48
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_5",
+    "algorithm_name": "Max-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 9.384092725819345,
+    "total_energy": 4.806637424076982,
+    "energy_efficiency": 3.9528673215139727,
+    "success_rate": 0.37254901960784315,
+    "execution_time": 0.00032401084899902344,
+    "additional_metrics": {
+      "scheduled_tasks": 19,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_1",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 16.058716220119496,
+    "total_energy": 12.192560869434047,
+    "energy_efficiency": 4.264895665221619,
+    "success_rate": 1.0,
+    "execution_time": 0.0007500648498535156,
+    "additional_metrics": {
+      "scheduled_tasks": 52,
+      "total_tasks": 52
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_2",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 30.405429649584413,
+    "total_energy": 17.32536189633399,
+    "energy_efficiency": 2.7127860463304434,
+    "success_rate": 1.0,
+    "execution_time": 0.0005328655242919922,
+    "additional_metrics": {
+      "scheduled_tasks": 47,
+      "total_tasks": 47
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_3",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 17.151374331581113,
+    "total_energy": 9.782799454801713,
+    "energy_efficiency": 5.213231676232263,
+    "success_rate": 1.0,
+    "execution_time": 0.0005559921264648438,
+    "additional_metrics": {
+      "scheduled_tasks": 51,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_4",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 15.35279151943463,
+    "total_energy": 8.830013855786255,
+    "energy_efficiency": 5.436005060008585,
+    "success_rate": 1.0,
+    "execution_time": 0.00043487548828125,
+    "additional_metrics": {
+      "scheduled_tasks": 48,
+      "total_tasks": 48
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_5",
+    "algorithm_name": "HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 19.277507733097657,
+    "total_energy": 13.783734145539505,
+    "energy_efficiency": 3.700013324510027,
+    "success_rate": 1.0,
+    "execution_time": 0.0007619857788085938,
+    "additional_metrics": {
+      "scheduled_tasks": 51,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_1",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 11.484005037783376,
+    "total_energy": 2.7886628194825214,
+    "energy_efficiency": 6.813301295251513,
+    "success_rate": 0.36538461538461536,
+    "execution_time": 0.0026350021362304688,
+    "additional_metrics": {
+      "scheduled_tasks": 19,
+      "total_tasks": 52
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_2",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 12.76656453466105,
+    "total_energy": 4.115131434829112,
+    "energy_efficiency": 4.131095268578209,
+    "success_rate": 0.3617021276595745,
+    "execution_time": 0.003468036651611328,
+    "additional_metrics": {
+      "scheduled_tasks": 17,
+      "total_tasks": 47
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_3",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 20.010136113524474,
+    "total_energy": 3.742664642673483,
+    "energy_efficiency": 4.809407659656658,
+    "success_rate": 0.35294117647058826,
+    "execution_time": 0.0041980743408203125,
+    "additional_metrics": {
+      "scheduled_tasks": 18,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_4",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 29.356989666601674,
+    "total_energy": 6.628103398710234,
+    "energy_efficiency": 2.7157089920327175,
+    "success_rate": 0.375,
+    "execution_time": 0.0034608840942382812,
+    "additional_metrics": {
+      "scheduled_tasks": 18,
+      "total_tasks": 48
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_5",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 21.464992220493443,
+    "total_energy": 4.61443220299691,
+    "energy_efficiency": 4.117516340940099,
+    "success_rate": 0.37254901960784315,
+    "execution_time": 0.002499103546142578,
+    "additional_metrics": {
+      "scheduled_tasks": 19,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_1",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 7.713497562227354,
+    "total_energy": 1.8893142591297918,
+    "energy_efficiency": 10.056558832489467,
+    "success_rate": 0.36538461538461536,
+    "execution_time": 0.0016620159149169922,
+    "additional_metrics": {
+      "scheduled_tasks": 19,
+      "total_tasks": 52
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_2",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 22.246160409556314,
+    "total_energy": 4.951500106304468,
+    "energy_efficiency": 3.433302965772908,
+    "success_rate": 0.3617021276595745,
+    "execution_time": 0.0021309852600097656,
+    "additional_metrics": {
+      "scheduled_tasks": 17,
+      "total_tasks": 47
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_3",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 13.051574375678609,
+    "total_energy": 7.403091978677012,
+    "energy_efficiency": 2.4314165016246,
+    "success_rate": 0.35294117647058826,
+    "execution_time": 0.004018068313598633,
+    "additional_metrics": {
+      "scheduled_tasks": 18,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_4",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 13.3217260913029,
+    "total_energy": 6.348637969023138,
+    "energy_efficiency": 2.8352538115777377,
+    "success_rate": 0.375,
+    "execution_time": 0.0038521289825439453,
+    "additional_metrics": {
+      "scheduled_tasks": 18,
+      "total_tasks": 48
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_5",
+    "algorithm_name": "Power-Aware Min-Min",
+    "algorithm_type": "heuristic",
+    "makespan": 18.115519075847395,
+    "total_energy": 3.681301157188313,
+    "energy_efficiency": 5.161218598728209,
+    "success_rate": 0.37254901960784315,
+    "execution_time": 0.0015659332275390625,
+    "additional_metrics": {
+      "scheduled_tasks": 19,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_1",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 73.94696319006441,
+    "total_energy": 12.881602608267888,
+    "energy_efficiency": 4.036764801813129,
+    "success_rate": 1.0,
+    "execution_time": 0.0009605884552001953,
+    "additional_metrics": {
+      "scheduled_tasks": 52,
+      "total_tasks": 52
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_2",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 25.036825060456447,
+    "total_energy": 5.376806474284023,
+    "energy_efficiency": 8.7412482157931,
+    "success_rate": 1.0,
+    "execution_time": 0.0006878376007080078,
+    "additional_metrics": {
+      "scheduled_tasks": 47,
+      "total_tasks": 47
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_3",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 40.69212895730468,
+    "total_energy": 9.058507817238114,
+    "energy_efficiency": 5.630066345248196,
+    "success_rate": 1.0,
+    "execution_time": 0.0007710456848144531,
+    "additional_metrics": {
+      "scheduled_tasks": 51,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_4",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 34.18777848504137,
+    "total_energy": 8.288363595984556,
+    "energy_efficiency": 5.791251728297061,
+    "success_rate": 1.0,
+    "execution_time": 0.0006699562072753906,
+    "additional_metrics": {
+      "scheduled_tasks": 48,
+      "total_tasks": 48
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_5",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 58.006661115736875,
+    "total_energy": 5.741786994941104,
+    "energy_efficiency": 8.882252170784877,
+    "success_rate": 1.0,
+    "execution_time": 0.0010950565338134766,
+    "additional_metrics": {
+      "scheduled_tasks": 51,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_1",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 39.77225340817963,
+    "total_energy": 8.907846476292669,
+    "energy_efficiency": 5.837550090068653,
+    "success_rate": 1.0,
+    "execution_time": 0.0007517337799072266,
+    "additional_metrics": {
+      "scheduled_tasks": 52,
+      "total_tasks": 52
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_2",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 26.37102394798876,
+    "total_energy": 5.4174192638609515,
+    "energy_efficiency": 8.675717663857435,
+    "success_rate": 1.0,
+    "execution_time": 0.0006847381591796875,
+    "additional_metrics": {
+      "scheduled_tasks": 47,
+      "total_tasks": 47
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_3",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 49.939665551839454,
+    "total_energy": 5.319724870674215,
+    "energy_efficiency": 9.586961965109358,
+    "success_rate": 1.0,
+    "execution_time": 0.0008721351623535156,
+    "additional_metrics": {
+      "scheduled_tasks": 51,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_4",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 39.77272727272727,
+    "total_energy": 11.951455397506864,
+    "energy_efficiency": 4.016247260564856,
+    "success_rate": 1.0,
+    "execution_time": 0.0006821155548095703,
+    "additional_metrics": {
+      "scheduled_tasks": 48,
+      "total_tasks": 48
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_5",
+    "algorithm_name": "Energy-Efficient HEFT",
+    "algorithm_type": "heuristic",
+    "makespan": 42.43197213083027,
+    "total_energy": 10.455466200550557,
+    "energy_efficiency": 4.877831272345797,
+    "success_rate": 1.0,
+    "execution_time": 0.0008578300476074219,
+    "additional_metrics": {
+      "scheduled_tasks": 51,
+      "total_tasks": 51
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_1",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.0005218982696533203,
+    "additional_metrics": {
+      "episode_length": 1,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_2",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.00030612945556640625,
+    "additional_metrics": {
+      "episode_length": 1,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_3",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.0004000663757324219,
+    "additional_metrics": {
+      "episode_length": 1,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_4",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.00030803680419921875,
+    "additional_metrics": {
+      "episode_length": 1,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "linear_abundant_run_5",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.0002980232238769531,
+    "additional_metrics": {
+      "episode_length": 1,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_1",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.0005478858947753906,
+    "additional_metrics": {
+      "episode_length": 1,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_2",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.0003693103790283203,
+    "additional_metrics": {
+      "episode_length": 1,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_3",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.0004029273986816406,
+    "additional_metrics": {
+      "episode_length": 2,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_4",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.00039076805114746094,
+    "additional_metrics": {
+      "episode_length": 1,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "parallel_bottleneck_run_5",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.0003657341003417969,
+    "additional_metrics": {
+      "episode_length": 1,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_1",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.00040984153747558594,
+    "additional_metrics": {
+      "episode_length": 1,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_2",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.00038695335388183594,
+    "additional_metrics": {
+      "episode_length": 1,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_3",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.00040602684020996094,
+    "additional_metrics": {
+      "episode_length": 1,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_4",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.0004849433898925781,
+    "additional_metrics": {
+      "episode_length": 2,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  },
+  {
+    "scenario_name": "complex_heterogeneous_run_5",
+    "algorithm_name": "Random-DRL",
+    "algorithm_type": "drl",
+    "makespan": 0.0,
+    "total_energy": 0.0,
+    "energy_efficiency": 0.0,
+    "success_rate": 0.0,
+    "execution_time": 0.000453948974609375,
+    "additional_metrics": {
+      "episode_length": 2,
+      "total_reward": -1000.0,
+      "scheduled_tasks": 0
+    }
+  }
+]
